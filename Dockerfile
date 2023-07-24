@@ -1,6 +1,6 @@
 # parameters
 ARG REPO_NAME="my-ros-program"
-ARG DESCRIPTION="<Duckiebot ROS System"
+ARG DESCRIPTION="Duckiebot ROS System"
 ARG MAINTAINER="Grant Collier (grantcollier8@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
